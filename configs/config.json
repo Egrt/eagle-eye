@@ -1,0 +1,39 @@
+{
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "DesktopLyric": {
+        "Alignment": "Center",
+        "FontFamily": "Microsoft YaHei",
+        "FontSize": 50,
+        "HighlightColor": "#0099bc",
+        "StrokeColor": "#000000",
+        "StrokeSize": 5
+    },
+    "aimInThisPCGroup": {
+        "Confidence": 50,
+        "fireType": "SightGlass",
+        "Smooth": 30
+    },
+    "Folders": {
+        "Download": "D:/Notebook/eagle-eye/download",
+        "LocalMusic": []
+    },
+    "MainWindow": {
+        "DpiScale": "Auto",
+        "EnableAcrylicBackground": true,
+        "Language": "Auto",
+        "MinimizeToTray": true,
+        "PlayBarColor": "#225c7f",
+        "RecentPlayNumbers": 300
+    },
+    "Online": {
+        "MvQuality": "Full HD",
+        "PageSize": 30,
+        "SongQuality": "Standard quality"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#009faa",
+        "ThemeMode": "Auto"
+    }
+}
