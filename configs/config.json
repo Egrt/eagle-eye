@@ -23,7 +23,7 @@
         "DpiScale": "Auto",
         "EnableAcrylicBackground": true,
         "Language": "Auto",
-        "MinimizeToTray": true,
+        "MinimizeToTray": false,
         "PlayBarColor": "#225c7f",
         "RecentPlayNumbers": 300
     },
@@ -34,6 +34,6 @@
     },
     "QFluentWidgets": {
         "ThemeColor": "#009faa",
-        "ThemeMode": "Auto"
+        "ThemeMode": "Light"
     }
 }

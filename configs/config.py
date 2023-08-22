@@ -112,4 +112,4 @@ RELEASE_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/releases/latest"
 
 
 cfg = Config()
-qconfig.load('./config.json', cfg)
+qconfig.load('configs/config.json', cfg)
